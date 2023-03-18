@@ -61,7 +61,7 @@ Library.NewWindow = function(project_name, ui_info)
 
     Main_Window.Name = "Main_Window"
     Main_Window.Parent = RCX
-    Main_Window.BackgroundColor3 = RGB(255, 20, 147)
+    Main_Window.BackgroundColor3 = RGB(0,0,0)
     Main_Window.BorderColor3 = RGB(255, 0, 0)
     Main_Window.BorderSizePixel = 0
     Main_Window.ClipsDescendants = true
